@@ -1,6 +1,7 @@
 Technical Challenge - Automate the installation and configuration of a nginx web server
 ================
 The nginx server should:
+
 a) serve requests over port 8000
 b) serve requests over port 8000
 
